@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KomplexTal/KomplexTal.iml" filepath="$PROJECT_DIR$/KomplexTal/KomplexTal.iml" />
       <module fileurl="file://$PROJECT_DIR$/komplex.iml" filepath="$PROJECT_DIR$/komplex.iml" />
     </modules>
   </component>
